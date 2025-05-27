@@ -26,7 +26,7 @@
   - Optional Bollinger Bands and other technical indicators.
 
 - 📓 **Interactive & Reproducible**
-  - Built entirely in a Jupyter Notebook for step-by-step exploration.
+  - Built entirely in a Google Colab Notebook for step-by-step exploration.
   - Each code cell can be executed independently for dynamic analysis.
 
 ---
@@ -34,7 +34,7 @@
 ## 🛠️ Technologies Used
 
 - **Language**: Python
-- **Environment**: Jupyter Notebook
+- **Environment**: Google Colab
 - **Libraries**:
   - `yfinance` — to fetch historical market data
   - `matplotlib` / `plotly` — for visualization
