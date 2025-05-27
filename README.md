@@ -51,8 +51,9 @@ git clone https://github.com/FortuneDayZ/Stock-Price-Trend-Analyzer.git
 ```
 
 ### 2. Open Google Colab
-
-Upload and Open in Notebook in the Google Colab Website
+```
+Upload the notebook and open it in Google Colab
+```
 ---
 
 ## 📁 File Structure
