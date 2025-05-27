@@ -2,7 +2,7 @@
 
 ## 🧭 Overview
 
-**Stock Trend Analyzer** is a Jupyter Notebook-based financial analysis tool that helps users visualize and evaluate the performance of selected stocks over time. Using historical data fetched via `yfinance`, the app provides visual insights into trends, moving averages, and relative performance to assist in stock market decision-making.
+**Stock Trend Analyzer** is a Google Colab Notebook-based financial analysis tool that helps users visualize and evaluate the performance of selected stocks over time. Using historical data fetched via `yfinance`, the app provides visual insights into trends, moving averages, and relative performance to assist in stock market decision-making.
 
 ---
 
