@@ -35,7 +35,7 @@
 ###1. Model Summary
 Shows the structure of the LSTM-based model used for predictions.
 
-[![Image Alt](image_url)](https://github.com/FortuneDayZ/Stock-Price-Trend-Analyzer/blob/main/Screenshots/LSTM%20Model%20Architecture.png?raw=true)
+![Image Alt](https://github.com/FortuneDayZ/Stock-Price-Trend-Analyzer/blob/main/Screenshots/LSTM%20Model%20Architecture.png?raw=true)
 
 ###2. Moving Averages Visualization
 Displays historical Google stock prices along with 100-day and 250-day moving averages.
